@@ -1,0 +1,126 @@
+u1_hw_star_wars
+  155  mkdir star_wars
+  156  ls
+  157  star_wars
+  158  empire rebellion
+  159  ls
+  160  git add empire rebellion
+  161  u1_hw_star_wars
+  162  mkdir star_wars
+  163  star_wars
+  164  git add .
+  165  mkdir empire rebellion
+  166  empire
+  167  touch darth_vader.txt
+  168  echo "...heavy breathing..."
+  169  cat darth_vader.txt
+  170  touch emperor_palpatine.txt
+  171  ls
+  172  mkdir death_star
+  173  ls
+  174  mv darth_vader.txt death_star
+  175  ls
+  176  cd
+  177  homework
+  178  u1_hw_star_wars
+  179  ga_seir
+  180  unit1
+  181  homework
+  182  u1_hw_star_wars
+  183  star_wars
+  184  rebellion
+  185  touch princess_leia.txt echo "Help me, Obi-Wan…"
+  186  touch obi_wan.txt
+  187  touch luke_skywalker.txt
+  188  ls
+  189  mkdir millenium_falcon
+  190  millenium_falcon
+  191  touch han_solo.txt chewbacca.txt
+  192  ls
+  193  mv luke_skywalker obi_wan princess_leia millenium_falcon
+  194  ls
+  195  rebellion
+  196  cd ..
+  197  mkdir millenium_falcon
+  198  millenium_falcon
+  199  mv luke_skywalker obi_wan princess_leia millenium_falcon
+  200  mv millenium_falcon death_star
+  201  rm obi_wan
+  202  cd ..
+  203  cd..
+  204  u1_hw_star_wars git:(main) ✗ star_wars
+  205  touch princess_leia.txt & echo "Help me, Obi-Wan..."
+  206  cd ..
+  207  git add .
+  208  git commit -m
+  209  u1_hw_star_wars
+  210  mkdir star_wars
+  211  star_wars
+  212  mkdir empire rebellion
+  213  empire
+  214  touch darth_vader.txt
+  215  echo "...heavy breathing..."
+  216  ls
+  217  u1_hw_star_wars
+  218  star_wars
+  219  mkdir empire rebellion
+  220  touch darth_vader.txt
+  221  echo "...heavy breathing..."
+  222  touch emperor_palpatine.txt
+  223  mkdir death_star
+  224  ls
+  225  u1_hw_star_wars
+  226  star_wars
+  227  mkdir empire rebellion
+  228  empire
+  229  touch darth_vader.txt
+  230  darth_vader.txt
+  231  echo "...heavy breathing..."
+  232  touch emperor_palpatine.txt
+  233  mkdir death_star
+  234  mv darth_vader.txt death_star
+  235  ls
+  236  cd ..
+  237  ls
+  238  cd ..
+  239  git add .
+  240  git commit -m "StarWars"
+  241  rebellion
+  242  star_wars
+  243  rebellion
+  244  touch princess_leia.txt & echo "Help me, Obi-Wan..."
+  245  touch obi_wan.txt
+  246  touch luke_skywalker.txt
+  247  mkdir millenium_falcon
+  248  touch han_solo.txt chewbacca.txt
+  249  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  250  mv millenium_falcon death_star
+  251  git add .
+  252  git commit m- "StarWars"
+  253  cd ..
+  254  git add .
+  255  git commit- "StarWars"
+  256  git commit m- "StarWars"
+  257  git commit m- "StarWars Act2"
+  258  star_wars
+  259  mv millenium_falcon death_star
+  260  rm obi_wan
+  261  rm obi_wan.txt
+  262  rebellion
+  263  death_star
+  264  rm obi_wan.txt
+  265  mv death_star millenium_falcon
+  266  mv han_solo.txt luke_skywalker.txt chewbacca.txt millenium_falcon
+  267  cd ..
+  268  empire
+  269  mkdir millenium_falcon
+  270  mv han_solo.txt luke_skywalker.txt chewbacca.txt millenium_falcon
+  271  mv millenium_falcon rebellion
+  272  rm death_star
+  273  rm -rf death_star
+  274  touch darth_vader.txt
+  275  cd ..
+  276  git add .
+  277  gitt commit -m "StarWars Homework"
+  278  git commit -m "StarWars Homework"
+  279  history
